@@ -1,0 +1,11 @@
+Q- How long did you spend on the code test?
+A- 3 hours
+
+Q- What went well?
+A- Everything
+
+Q- Was there anything that was attempted but was not possible to get working in the time so is not visible in the code?
+A- No
+
+Q- What would you do to improve it / continue development?
+A- So many adjsuted can be made, e.g allowing user to select location and fetch data based on that.
