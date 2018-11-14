@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+    <string name="open_weather">Open Weather</string>
+    <string name="weather">Weather</string>
+    <string name="sunrise_sent">Sunrise Sunset</string>
+    <string name="current_time">Current Time</string>
+    <string name="temperature">Temperature</string>
+    <string name="weather_desc">Weather Description</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="sunsettime">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+</resources>
